@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Karnatimk007/Lc-POTD/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Karnatimk007/Lc-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Karnatimk007/Lc-POTD/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3524-find-x-value-of-array-i](https://github.com/Karnatimk007/Lc-POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karnatimk007/Lc-POTD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Combinatorics
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Karnatimk007/Lc-POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Karnatimk007/Lc-POTD/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/3498-reverse-degree-of-a-string) |
+## Counting
+|  |
+| ------- |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Karnatimk007/Lc-POTD/tree/master/1742-maximum-number-of-balls-in-a-box) |
 <!---LeetCode Topics End-->
