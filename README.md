@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Karnatimk007/Lc-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Karnatimk007/Lc-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Karnatimk007/Lc-POTD/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Karnatimk007/Lc-POTD/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Karnatimk007/Lc-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Karnatimk007/Lc-POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karnatimk007/Lc-POTD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Karnatimk007/Lc-POTD/tree/master/1742-maximum-number-of-balls-in-a-box) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Karnatimk007/Lc-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Karnatimk007/Lc-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
