@@ -113,4 +113,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Karnatimk007/Lc-POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Karnatimk007/Lc-POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Karnatimk007/Lc-POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Karnatimk007/Lc-POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
