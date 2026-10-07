@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0032-longest-valid-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Karnatimk007/Lc-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -123,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Karnatimk007/Lc-POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Karnatimk007/Lc-POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Karnatimk007/Lc-POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Quicksort
 |  |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Karnatimk007/Lc-POTD/tree/master/0075-sort-colors) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
