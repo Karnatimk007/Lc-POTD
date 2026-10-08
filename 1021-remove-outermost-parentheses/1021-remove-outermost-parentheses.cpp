@@ -1,11 +1,14 @@
 class Solution {
 public:
     string removeOuterParentheses(string& s) {
-        string res;
-        int lvl = 0;
-        for (auto& c : s)
-            if (c & 1 ? --lvl : lvl++)
-                res += c;
-        return res;
+       int n=s.size(), balance=0, j=0;
+        for(int i=0; i<n; i++){
+            const char c=s[i];
+            balance+=(c=='(')-(c==')');
+            if ((balance==1 && c=='(')||(balance==0 && c==')')) continue;
+            s[j++]=s[i];
+        }
+        s.resize(j);
+        return s;
     }
 };
