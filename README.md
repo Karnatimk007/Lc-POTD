@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Karnatimk007/Lc-POTD/tree/master/0075-sort-colors) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Karnatimk007/Lc-POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Karnatimk007/Lc-POTD/tree/master/1742-maximum-number-of-balls-in-a-box) |
