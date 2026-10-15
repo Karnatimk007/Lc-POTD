@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Karnatimk007/Lc-POTD/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Karnatimk007/Lc-POTD/tree/master/0856-score-of-parentheses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Karnatimk007/Lc-POTD/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Karnatimk007/Lc-POTD/tree/master/0242-valid-anagram) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Karnatimk007/Lc-POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Karnatimk007/Lc-POTD/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Karnatimk007/Lc-POTD/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Karnatimk007/Lc-POTD/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Karnatimk007/Lc-POTD/tree/master/0242-valid-anagram) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Karnatimk007/Lc-POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Karnatimk007/Lc-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Karnatimk007/Lc-POTD/tree/master/3727-maximum-alternating-sum-of-squares) |
