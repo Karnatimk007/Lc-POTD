@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Karnatimk007/Lc-POTD/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Karnatimk007/Lc-POTD/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Karnatimk007/Lc-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Karnatimk007/Lc-POTD/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Karnatimk007/Lc-POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Karnatimk007/Lc-POTD/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Karnatimk007/Lc-POTD/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Karnatimk007/Lc-POTD/tree/master/0217-contains-duplicate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Karnatimk007/Lc-POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Karnatimk007/Lc-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Karnatimk007/Lc-POTD/tree/master/3727-maximum-alternating-sum-of-squares) |
