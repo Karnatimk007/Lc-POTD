@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Karnatimk007/Lc-POTD/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Karnatimk007/Lc-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Array
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Karnatimk007/Lc-POTD/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Karnatimk007/Lc-POTD/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Karnatimk007/Lc-POTD/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/Karnatimk007/Lc-POTD/tree/master/0724-find-pivot-index) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Karnatimk007/Lc-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Karnatimk007/Lc-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Karnatimk007/Lc-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
